@@ -13,14 +13,7 @@ SESSION_TYPE = 'filesystem'
 app = Flask(__name__)
 
 posts = [
-    {
-        'author': 'ASSABBANE Mehdi',
-        'title': 'Data pre-processing',
-        'content': '''is an important step in the data mining process. The phrase "garbage in, garbage out" is particularly applicable to data mining and machine learning projects''',
-        'date_posted': 'December 21, 2020',
-        'url': '/pre_processing'
 
-    },
     {
         'author': 'ASSABBANE Mehdi',
         'title': 'Linear Regression',
