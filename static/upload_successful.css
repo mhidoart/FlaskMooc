@@ -23,3 +23,6 @@ width: 200px;
 /**/
 body {font-family: sans-serif; padding: 2em; background: #f2f2f2; color: #666}
 p {text-align: center;}
+.centered{
+  text-align: center;
+}
